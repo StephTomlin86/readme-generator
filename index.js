@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./readme-generator/generateMD.js");
+const axios = require("axios");
+const generateMarkdown = require("./generateMD");
 
 const questions = [
   {
@@ -41,16 +42,6 @@ const questions = [
     name: "test",
     message: "What command should be run to run tests?",
     default: "npm test",
-  },
-  {
-    type: "input",
-    name: "usage",
-    message: "What does the user need to know about using the repo?",
-  },
-  {
-    type: "input",
-    name: "contributing",
-    message: "What does the user need to know about contributing to the repo?",
   },
 ];
 
