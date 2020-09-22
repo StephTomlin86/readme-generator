@@ -1,23 +1,24 @@
 # readme-generator
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is a node command line exercise that generates a README.md file after a user answers a series of prompts.
+Using CLI, I developed a README.md file using axios
 
-## Table of Contents 
+## Table of Contents
 
-* [Installation](#installation)
+- [Installation](#installation)
 
-* [Usage](#usage)
+- [Usage](#usage)
 
-* [License](#license)
+- [License](#license)
 
-* [Contributing](#contributing)
+- [Contributing](#contributing)
 
-* [Tests](#tests)
+- [Tests](#tests)
 
-* [Questions](#questions)
+- [Questions](#questions)
 
 ## Installation
 
@@ -29,15 +30,15 @@ npm i
 
 ## Usage
 
-
+undefined
 
 ## License
 
 This project is licensed under the MIT license.
-  
+
 ## Contributing
 
-
+undefined
 
 ## Tests
 
@@ -51,3 +52,4 @@ npm test
 
 If you have any questions about the repo, open an issue or contact me directly at tomlin.steph@gmail.com. You can find more of my work at [StephTomlin86](https://github.com/StephTomlin86/).
 
+![Readme](readme-generatorscreencast.gif)
